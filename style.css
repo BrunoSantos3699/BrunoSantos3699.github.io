@@ -1,0 +1,39 @@
+h2 {
+    color: rgb(255, 255, 255);
+    font-size: 2em;
+}
+
+body {
+    background-color: white;
+    font-size: 23px;
+    line-height: 40px;
+    text-align: center;
+}
+
+#Oque {
+    background-color: rgb(255, 0, 0);
+}
+
+#list {
+    background-color: rgb(255, 0, 0);
+}
+
+#titulooo {
+    color: rgb(255, 0, 0);
+}
+
+#quemmm {
+    background-color: rgb(255, 0, 0);
+}
+
+p {
+    font-family: serif;
+}
+
+h1 {
+    font-family: monospace;
+}
+
+.list-style {
+    line-height: 40px;
+}
